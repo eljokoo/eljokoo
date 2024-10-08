@@ -1,22 +1,20 @@
-# Hi there 👋 My name is Eljo Kondi
-
 <!--
 **eljokoo/eljokoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 🫡 About Me
+# 🫡 About Me
 
 Hi, I'm Eljo! I'm a senior at Dartmouth College studying Computer Science and Statistics. I work at the [Dartmouth DALI Lab](https://dali.dartmouth.edu/) as a Fullstack Developer and Interim Project Management Lead. I'm passionate about using technology to solve real-world problems and applying software solutions to all kinds of novel challenges.
 
-## 🔗 Connect with Me
+# 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/eljo-kondi)
 
-## 🖥 Past Projects
+# 🖥 Past Projects
 
-### Projects
+## Projects
 
-- #### 👩 Greta 2.0 - Fullstack Developer
+- ### 👩 Greta 2.0 - Fullstack Developer
 
 <img width="400" alt="Screenshot 1 Greta" src="https://github.com/user-attachments/assets/5c919e00-e6d8-4b4d-b817-85cc4d6d7cb6">
 <img width="400" alt="Screenshot 2 Greta" src="https://github.com/user-attachments/assets/36b8844a-5cfa-4137-9287-e12a8aa4ff2f">
@@ -39,7 +37,7 @@ Greta 2.0 is a chatbot inspired by the AI character of Greta in the play "Sister
 
 `OpenAI API`
 
-- #### 🎨 ArtLibs - Mobile Developer
+- ### 🎨 ArtLibs - Mobile Developer
 
 <img width="150" alt="Screenshot 1 ArtLibs" src="https://github.com/user-attachments/assets/2f235c57-30ba-4cf1-b1bb-498ca58099b5">
 <img width="150" alt="Screenshot 2 ArtLibs" src="https://github.com/user-attachments/assets/44919afa-8b18-4ccf-b026-3fd14ca2329d">
@@ -59,6 +57,6 @@ ArtLibs is an app designed alongside the Finn Lab at Dartmouth to enhance the ex
 
 `Firebase`
 
-### Projects Managed
+## Projects Managed
 
 Coming soon!
