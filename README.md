@@ -14,49 +14,51 @@ Hi, I'm Eljo! I'm a senior at Dartmouth College studying Computer Science and St
 
 ## 🖥 Past Projects
 
-### Projects Developed
+### Projects
 
-- #### Greta 2.0 👩
+- #### 👩 Greta 2.0 - Fullstack Developer
 
-![Project Image 1](https://via.placeholder.com/150) ![Project Image 2](https://via.placeholder.com/150)
+<img width="400" alt="Screenshot 1 Greta" src="https://github.com/user-attachments/assets/5c919e00-e6d8-4b4d-b817-85cc4d6d7cb6">
+<img width="400" alt="Screenshot 2 Greta" src="https://github.com/user-attachments/assets/36b8844a-5cfa-4137-9287-e12a8aa4ff2f">
+
+&nbsp;
 
 [Live Demo](https://greta-frontend.onrender.com)
 
+[News Article](https://www.ourherald.com/articles/northern-stage-presents-sisters-by-matthew-libby/)
+
 **Description:**
-A brief description of the project goes here. Explain what the project is about, its purpose, and any interesting details.
+
+Greta 2.0 is a chatbot inspired by the AI character of Greta in the play "Sisters" by Matthew Libby, which debuted at Northern Stage in White River Junction October 2024. 
 
 **Technologies Used:**
 
-- Technology 1
-- Technology 2
-- Technology 3
+`Python (Boto3, Langchain, FastAPI)`
+
+`TypeScript (React, Vite, TailwindCSS)`
+
+`OpenAI API`
+
+- #### 🎨 ArtLibs - Mobile Developer
+
+<img width="150" alt="Screenshot 1 ArtLibs" src="https://github.com/user-attachments/assets/2f235c57-30ba-4cf1-b1bb-498ca58099b5">
+<img width="150" alt="Screenshot 2 ArtLibs" src="https://github.com/user-attachments/assets/44919afa-8b18-4ccf-b026-3fd14ca2329d">
+
+
+&nbsp;
+
+[App Store Page]((https://apps.apple.com/us/app/artlibs/id6502668562))
+
+**Description:**
+
+ArtLibs is an app designed alongside the Finn Lab at Dartmouth to enhance the experience of Hood Museum visitors, as well as assist in collecting data on ambiguous art interpretations for psychology research. This app allows users to enter their data, find and interpret artworks, as well as receive a personalized "artwork personality" depending on their choices at the end of the experience.
+
+**Technologies Used:**
+
+`JavaScript (React Native)`
+
+`Firebase`
 
 ### Projects Managed
 
-- #### Project Title 1
-
-![Project Image 1](https://via.placeholder.com/150)
-![Project Image 2](https://via.placeholder.com/150)
-
-**Description:**
-A brief description of the project goes here. Explain what the project is about, its purpose, and any interesting details.
-
-**Technologies Used:**
-
-- Technology 1
-- Technology 2
-- Technology 3
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coming soon!
