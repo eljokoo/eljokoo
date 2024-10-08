@@ -37,6 +37,8 @@ Greta 2.0 is a chatbot inspired by the AI character of Greta in the play "Sister
 
 `OpenAI API`
 
+&nbsp;
+
 - ### 🎨 ArtLibs - Mobile Developer
 
 <img width="150" alt="Screenshot 1 ArtLibs" src="https://github.com/user-attachments/assets/2f235c57-30ba-4cf1-b1bb-498ca58099b5">
@@ -45,7 +47,7 @@ Greta 2.0 is a chatbot inspired by the AI character of Greta in the play "Sister
 
 &nbsp;
 
-[App Store Page]((https://apps.apple.com/us/app/artlibs/id6502668562))
+[App Store Page](https://apps.apple.com/us/app/artlibs/id6502668562)
 
 **Description:**
 
