@@ -59,6 +59,26 @@ ArtLibs is an app designed alongside the Finn Lab at Dartmouth to enhance the ex
 
 `Firebase`
 
+- ### 🕹️ Agar.io Evolutionary ML
+
+![Agar.io Screenshot](https://github.com/user-attachments/assets/2b12b110-4744-4592-a8ab-80be7439b9f2)
+
+
+&nbsp;
+
+[Research Project Poster](https://drive.google.com/file/d/1xIeXMbOGgDWWHN3bu77dsSvTN9SAh4Cy/view?usp=sharing)
+
+**Description:**
+
+This project is an implementation of a simple "evolutionary" Neural Network in the popular game Agar.io. The goal was to compare mathematically optimal evolutionary game theory strategies to the model's ultimate strategy and see whether the same conclusions would be reached. (Wasn't quite the case!)
+
+
+**Technologies Used:**
+
+`JavaScript (Node.js)`
+
+`TensorFlow`
+
 ## Projects Managed
 
 Coming soon!
