@@ -78,7 +78,3 @@ This project is an implementation of a simple "evolutionary" Neural Network in t
 `JavaScript (Node.js)`
 
 `TensorFlow`
-
-## Projects Managed
-
-Coming soon!
