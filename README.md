@@ -14,6 +14,29 @@ Hi, I'm Eljo! I'm a senior at Dartmouth College studying Computer Science and St
 
 ## Projects
 
+- ### 🌲 Dartmouth AI Literacy Platform (ChatGPTree)
+
+<img width="500" alt="Screenshot 1 ChatGPTree" src="https://github.com/user-attachments/assets/db1af734-8ed8-4d28-948f-aeb21c094e41" />
+
+&nbsp;
+
+[Live Demo](https://chatgptree.brunchlabs.com)
+
+**Description:**
+
+This is a chat interface, but also a platform meant to teach Dartmouth students about various of the "under the hood" mechanics of LLMs, developed in cooperation with the Advisor to the Provost for AI. It features an objective system, minigame lessons, control over various settings as well as RAG and custom models. 
+
+**Technologies Used:**
+
+`Python (Pinecone, Langchain, FastAPI)`
+
+`TypeScript (React, Vite, Zustand)`
+
+`DartmouthChat and OpenAI APIs`
+
+&nbsp;
+
+
 - ### 👩 Greta 2.0 - Fullstack Developer
 
 <img width="400" alt="Screenshot 1 Greta" src="https://github.com/user-attachments/assets/5c919e00-e6d8-4b4d-b817-85cc4d6d7cb6">
